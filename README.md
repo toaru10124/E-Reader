@@ -1,4 +1,4 @@
-# E-Reader（電子書籍リーダー）
+# E-Reader
 
 日本の大学生が、ふだんの授業・ノート取り・文献読みに使うことを想定して作った Windows 用の電子書籍リーダーです。
 
@@ -7,7 +7,7 @@
 
 ## ダウンロード
 
-[最新版はこちら](https://github.com/toaru10124/ebookreader/releases/latest) → 「Assets」の **E-Reader-v1.0.zip**
+[最新版はこちら](https://github.com/toaru10124/E-Reader/releases/latest) → 「Assets」の **E-Reader-v1.0.zip**
 
 ## 使い方
 
