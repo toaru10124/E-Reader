@@ -6,7 +6,7 @@
 
 ## ダウンロード
 
-[最新版のページ](https://github.com/toaru10124/E-Reader/releases/latest)の「Assets」から **E-Reader-v1.0.zip** をダウンロードしてください。
+**[最新版をダウンロード](https://github.com/toaru10124/E-Reader/releases/latest)**
 
 ## 使い方
 
