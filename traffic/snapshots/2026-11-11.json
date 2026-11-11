@@ -1,0 +1,71 @@
+{
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 2,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/toaru10124/E-Reader",
+      "title": "Overview",
+      "count": 17,
+      "uniques": 3
+    },
+    {
+      "path": "/toaru10124/E-Reader/releases/tag/v1.0",
+      "title": "/releases/tag/v1.0",
+      "count": 5,
+      "uniques": 2
+    },
+    {
+      "path": "/toaru10124/ebookreader",
+      "title": "Overview",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/toaru10124/ebookreader/releases/tag/v1.0",
+      "title": "/releases/tag/v1.0",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/toaru10124/E-Reader/edit/main/README.md",
+      "title": "/edit/main/README.md",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/toaru10124/E-Reader/releases/edit/v1.0",
+      "title": "/releases/edit/v1.0",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/toaru10124/E-Reader/upload/main/screenshots",
+      "title": "/upload/main/screenshots",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/toaru10124/ebookreader/edit/main/README.md",
+      "title": "/edit/main/README.md",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/toaru10124/ebookreader/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/toaru10124/ebookreader/releases/new",
+      "title": "/releases/new",
+      "count": 2,
+      "uniques": 1
+    }
+  ]
+}
