@@ -1,5 +1,7 @@
 # E-Reader
 
+[日本語](README.md) | [中文](README.zh-CN.md)
+
 大学の授業・ノート取り・文献読みのための、Windows 用電子書籍リーダーです。
 
 ![本棚](screenshots/2-bookshelf.jpg)
@@ -11,10 +13,11 @@
 ## 使い方
 
 1. zip を右クリック →「すべて展開」
-2. `E-Reader.bat` をダブルクリック（警告が出たら「詳細情報」→「実行」）
-3. 2 回目からは、同じフォルダにできる「E-Reader」ショートカットで開けます
+2. `E-Reader.exe` をダブルクリック（青い警告が出たら「詳細情報」→「実行」）
 
-対応：Windows ＋ Chrome / Edge
+※ 初めて開くときは、起動に少し時間がかかることがあります。
+
+対応：Windows（いつものブラウザで開きます。Chrome / Edge がおすすめ）
 形式：TXT / EPUB / PDF / DOCX / PPTX
 
 ## できること
