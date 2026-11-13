@@ -4,7 +4,7 @@
 
 为大学上课、记笔记、读文献做的 Windows 电子书阅读器。
 
-![书架](screenshots/2-bookshelf.jpg)
+![书架](screenshots/zh-2-bookshelf.jpg)
 
 ## 下载
 
@@ -25,17 +25,17 @@
 ### 划线・笔记
 选中文字，就能用不同颜色划线、写笔记。
 
-![阅读](screenshots/3-reading.jpg)
+![阅读](screenshots/zh-3-reading.jpg)
 
 ### 查文献・查词典
 选中的词可以马上用 Google Scholar、中国知网、有道等搜索，画面左右分开。
 
-![查文献](screenshots/5-search.gif)
+![查文献](screenshots/zh-5-search.gif)
 
 ### 笔记
 划线和笔记可以一起回看，还能导出成 Word。
 
-![笔记](screenshots/4-notes.jpg)
+![笔记](screenshots/zh-4-notes.jpg)
 
 ## 关于数据
 
